@@ -353,7 +353,7 @@ It demonstrates how React can be used to create modern admin panels and SaaS-sty
 
 Through this project, I practiced:
 
-- Building dashboards using React
+- Building dashboards ugit add README.mdsing React
 - Managing state with React Hooks
 - Creating interactive charts
 - Working with arrays and objects
