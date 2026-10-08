@@ -6,13 +6,9 @@ The dashboard provides an interactive interface for monitoring business performa
 
 ---
 
-## 🚀 Live Demo
-
-🔗 **Live Demo:** `Add your deployed link here`
-
 ## 📂 GitHub Repository
 
-🔗 **GitHub:** `Add your GitHub repository link here`
+🔗 **GitHub:** `https://github.com/nisha-codex/intern_dashboard`
 
 ---
 
